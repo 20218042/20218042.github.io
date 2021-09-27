@@ -1,0 +1,49 @@
+<html>
+
+<body>
+
+<table width="450" border="3">
+ <tr>
+  <th align="left">新生儿期</th>
+  <th align="right">幼龄期</th>
+  <th align="right">幼年期</th>
+  <th align="right">性成熟期</th>
+    <th align="right">成犬期</th>
+        <th align="right">老龄期</th>
+ </tr>
+ <tr>
+  <td align="left">犬粮</td>
+  <td align="right">$41.10</td>
+  <td align="right">$50.20</td>
+   <td align="right">$50.20</td>
+    <td align="right">$50.20</td>
+     <td align="right">$50.20</td>
+ </tr>
+ <tr>
+  <td align="left">微量元素</td>
+  <td align="right">$30.00</td>
+  <td align="right">$44.45</td>
+   <td align="right">$50.20</td>
+    <td align="right">$50.20</td>
+     <td align="right">$50.20</td>
+ </tr>
+ <tr>
+  <td align="left">玩具</td>
+  <td align="right">$730.40</td>
+  <td align="right">$650.00</td>
+   <td align="right">$50.20</td>
+    <td align="right">$50.20</td>
+     <td align="right">$50.20</td>
+ </tr>
+ <tr>
+  <th align="left">总计</th>
+  <th align="right">$1001.50</th>
+  <th align="right">$744.65</th>
+   <td align="right">$50.20</td>
+    <td align="right">$50.20</td>
+     <td align="right">$50.20</td>
+ </tr>
+</table>
+
+</body>
+</html>
